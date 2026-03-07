@@ -1,1 +1,1 @@
-# setup kind locally
+# setup kind, metallb and istio locally with PODMAN
